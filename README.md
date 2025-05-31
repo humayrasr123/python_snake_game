@@ -1,6 +1,8 @@
 # python_snake_game
 🐍 Snake Game (Python + Tkinter + Pygame)
 A classic Snake Game built from scratch using Python, with a GUI developed in Tkinter and sound effects added via Pygame. This game features increasing difficulty, dynamic gameplay, and fun visual elements to deliver a polished retro arcade experience.
+
+
 🎮 Features
 Colorful, responsive GUI with Tkinter
 
